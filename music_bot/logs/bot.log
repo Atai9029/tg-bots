@@ -1,0 +1,297 @@
+2026-05-11 11:26:28 | [32mINFO    [0m | utils.logger | Logging initialised level=INFO file=logs\bot.log
+2026-05-11 11:26:28 | [32mINFO    [0m | __main__ | Bot started username=@kjfu_bot id=8781021259
+2026-05-11 11:26:28 | [32mINFO    [0m | __main__ | Starting long-polling… (press Ctrl+C to stop)
+2026-05-11 11:26:28 | [32mINFO    [0m | aiogram.dispatcher | Start polling
+2026-05-11 11:26:28 | [32mINFO    [0m | aiogram.dispatcher | Run polling for bot @kjfu_bot id=8781021259 - 'Music_bot'
+2026-05-11 11:26:28 | [32mINFO    [0m | handlers.start | User 6429462475 (No_00000) /start
+2026-05-11 11:26:29 | [32mINFO    [0m | aiogram.event | Update id=472496584 is handled. Duration 437 ms by bot id=8781021259
+2026-05-11 11:26:33 | [32mINFO    [0m | handlers.start | User 6429462475 (No_00000) /start
+2026-05-11 11:26:34 | [32mINFO    [0m | aiogram.event | Update id=472496585 is handled. Duration 140 ms by bot id=8781021259
+2026-05-11 11:26:40 | [32mINFO    [0m | handlers.search | User 6429462475 searching: 'Mambo'
+2026-05-11 11:26:44 | [32mINFO    [0m | services.music_search | Search 'Mambo' -> 5 results
+2026-05-11 11:26:44 | [32mINFO    [0m | aiogram.event | Update id=472496586 is handled. Duration 4108 ms by bot id=8781021259
+2026-05-11 11:26:47 | [32mINFO    [0m | handlers.download | User 6429462475 requested download: [0] 'HACHIMI MAMBO FUNK - 36 KINGDOM & SVNO'
+2026-05-11 11:26:48 | [32mINFO    [0m | services.music_downloader | Starting download: https://www.youtube.com/watch?v=JoXQX1k8R-E (id=JoXQX1k8R-E)
+2026-05-11 11:26:51 | [31mERROR   [0m | services.music_downloader | yt-dlp DownloadError: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2026-05-11 11:26:51 | [32mINFO    [0m | aiogram.event | Update id=472496587 is handled. Duration 3311 ms by bot id=8781021259
+2026-05-11 11:27:20 | [32mINFO    [0m | handlers.search | User 6429462475 searching: 'Lol'
+2026-05-11 11:27:22 | [32mINFO    [0m | services.music_search | Search 'Lol' -> 5 results
+2026-05-11 11:27:22 | [32mINFO    [0m | aiogram.event | Update id=472496588 is handled. Duration 2797 ms by bot id=8781021259
+2026-05-11 11:27:24 | [32mINFO    [0m | handlers.download | User 6429462475 requested download: [1] 'LOL- Official Music Video | Ginny Weds Sunny | Yami, Vikrant | Payal Dev | Kunaal Vermaa | Dev Negi'
+2026-05-11 11:27:25 | [32mINFO    [0m | services.music_downloader | Starting download: https://www.youtube.com/watch?v=SKLZMJe8aJ4 (id=SKLZMJe8aJ4)
+2026-05-11 11:27:30 | [31mERROR   [0m | services.music_downloader | yt-dlp DownloadError: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2026-05-11 11:27:30 | [32mINFO    [0m | aiogram.event | Update id=472496589 is handled. Duration 5500 ms by bot id=8781021259
+2026-05-11 11:28:00 | [32mINFO    [0m | handlers.search | User 6429462475 searching: 'Phonk'
+2026-05-11 11:28:03 | [32mINFO    [0m | services.music_search | Search 'Phonk' -> 5 results
+2026-05-11 11:28:03 | [32mINFO    [0m | aiogram.event | Update id=472496590 is handled. Duration 2718 ms by bot id=8781021259
+2026-05-11 11:28:10 | [32mINFO    [0m | handlers.download | User 6429462475 requested download: [0] 'MONTAGEM ALQUIMIA (SLOWED) - h6itam, n7san7os & Mc Menor Do Alvorada'
+2026-05-11 11:28:10 | [32mINFO    [0m | services.music_downloader | Starting download: https://www.youtube.com/watch?v=wFUAYxi9zpo (id=wFUAYxi9zpo)
+2026-05-11 11:28:14 | [31mERROR   [0m | services.music_downloader | yt-dlp DownloadError: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2026-05-11 11:28:14 | [32mINFO    [0m | aiogram.event | Update id=472496591 is handled. Duration 4094 ms by bot id=8781021259
+2026-05-11 11:28:15 | [32mINFO    [0m | handlers.start | User 1691899035 (no-username) /start
+2026-05-11 11:28:15 | [32mINFO    [0m | aiogram.event | Update id=472496592 is handled. Duration 172 ms by bot id=8781021259
+2026-05-11 11:28:36 | [32mINFO    [0m | handlers.search | User 1691899035 searching: 'jojo'
+2026-05-11 11:28:39 | [32mINFO    [0m | services.music_search | Search 'jojo' -> 5 results
+2026-05-11 11:28:39 | [32mINFO    [0m | aiogram.event | Update id=472496593 is handled. Duration 2531 ms by bot id=8781021259
+2026-05-11 11:28:50 | [32mINFO    [0m | handlers.download | User 1691899035 requested download: [0] 'ASMRtist Reacts to: TikTok ASMR'
+2026-05-11 11:28:50 | [32mINFO    [0m | services.music_downloader | Starting download: https://www.youtube.com/watch?v=L7VS6yUE5Vs (id=L7VS6yUE5Vs)
+2026-05-11 11:28:57 | [31mERROR   [0m | services.music_downloader | yt-dlp DownloadError: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2026-05-11 11:28:57 | [32mINFO    [0m | aiogram.event | Update id=472496594 is handled. Duration 7016 ms by bot id=8781021259
+2026-05-11 11:29:24 | [32mINFO    [0m | handlers.search | User 1691899035 searching: 'jojo'
+2026-05-11 11:29:26 | [32mINFO    [0m | services.music_search | Search 'jojo' -> 5 results
+2026-05-11 11:29:26 | [32mINFO    [0m | aiogram.event | Update id=472496595 is handled. Duration 2250 ms by bot id=8781021259
+2026-05-11 11:29:30 | [32mINFO    [0m | handlers.download | User 1691899035 requested download: [0] "JoJo - Baby It's You (Original Video)"
+2026-05-11 11:29:30 | [32mINFO    [0m | services.music_downloader | Starting download: https://www.youtube.com/watch?v=XDdjJNkObuo (id=XDdjJNkObuo)
+2026-05-11 11:29:33 | [31mERROR   [0m | services.music_downloader | yt-dlp DownloadError: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2026-05-11 11:29:33 | [32mINFO    [0m | aiogram.event | Update id=472496596 is handled. Duration 3516 ms by bot id=8781021259
+2026-05-11 11:35:12 | [32mINFO    [0m | handlers.search | User 1691899035 searching: 'Anime'
+2026-05-11 11:35:18 | [32mINFO    [0m | services.music_search | Search 'Anime' -> 5 results
+2026-05-11 11:35:18 | [32mINFO    [0m | aiogram.event | Update id=472496597 is handled. Duration 6421 ms by bot id=8781021259
+2026-05-11 11:35:32 | [32mINFO    [0m | handlers.download | User 1691899035 requested download: [1] 'Gojo Vs Sukuna Full Fight in Hindi | Jujutsu Kaisen Funny Moments and Sigma Moments in Hindi'
+2026-05-11 11:35:33 | [32mINFO    [0m | services.music_downloader | Starting download: https://www.youtube.com/watch?v=Uf6kKbS39Iw (id=Uf6kKbS39Iw)
+2026-05-11 11:35:47 | [31mERROR   [0m | services.music_downloader | yt-dlp DownloadError: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2026-05-11 11:35:47 | [32mINFO    [0m | aiogram.event | Update id=472496598 is handled. Duration 14641 ms by bot id=8781021259
+2026-05-11 11:36:15 | [32mINFO    [0m | handlers.search | User 1691899035 searching: 'Сучка бля ахуела?Ж'
+2026-05-11 11:36:18 | [32mINFO    [0m | services.music_search | Search 'Сучка бля ахуела?Ж' -> 5 results
+2026-05-11 11:36:19 | [32mINFO    [0m | aiogram.event | Update id=472496599 is handled. Duration 3327 ms by bot id=8781021259
+2026-05-11 11:36:28 | [32mINFO    [0m | handlers.search | User 1691899035 searching: 'порно'
+2026-05-11 11:36:31 | [32mINFO    [0m | services.music_search | Search 'порно' -> 5 results
+2026-05-11 11:36:31 | [32mINFO    [0m | aiogram.event | Update id=472496600 is handled. Duration 2328 ms by bot id=8781021259
+2026-05-11 11:36:31 | [32mINFO    [0m | handlers.download | User 1691899035 cancelled search.
+2026-05-11 11:36:31 | [32mINFO    [0m | aiogram.event | Update id=472496601 is handled. Duration 563 ms by bot id=8781021259
+2026-05-11 11:36:47 | [32mINFO    [0m | aiogram.event | Update id=472496602 is handled. Duration 500 ms by bot id=8781021259
+2026-05-11 11:36:59 | [32mINFO    [0m | handlers.search | User 1691899035 searching: 'порно'
+2026-05-11 11:37:01 | [32mINFO    [0m | services.music_search | Search 'порно' -> 5 results
+2026-05-11 11:37:02 | [32mINFO    [0m | aiogram.event | Update id=472496603 is handled. Duration 2219 ms by bot id=8781021259
+2026-05-11 11:37:03 | [32mINFO    [0m | handlers.download | User 1691899035 requested download: [4] 'Порно'
+2026-05-11 11:37:03 | [32mINFO    [0m | services.music_downloader | Starting download: https://www.youtube.com/watch?v=FUEuEWo3xrI (id=FUEuEWo3xrI)
+2026-05-11 11:37:16 | [31mERROR   [0m | services.music_downloader | yt-dlp DownloadError: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2026-05-11 11:37:16 | [32mINFO    [0m | aiogram.event | Update id=472496604 is handled. Duration 13577 ms by bot id=8781021259
+2026-05-11 11:39:20 | [32mINFO    [0m | utils.logger | Logging initialised level=INFO file=logs\bot.log
+2026-05-11 11:39:20 | [32mINFO    [0m | __main__ | Bot started username=@kjfu_bot id=8781021259
+2026-05-11 11:39:20 | [32mINFO    [0m | __main__ | Starting long-polling… (press Ctrl+C to stop)
+2026-05-11 11:39:20 | [32mINFO    [0m | aiogram.dispatcher | Start polling
+2026-05-11 11:39:20 | [32mINFO    [0m | aiogram.dispatcher | Run polling for bot @kjfu_bot id=8781021259 - 'Music_bot'
+2026-05-11 11:39:33 | [32mINFO    [0m | handlers.start | User 6429462475 (No_00000) /start
+2026-05-11 11:39:34 | [32mINFO    [0m | aiogram.event | Update id=472496605 is handled. Duration 625 ms by bot id=8781021259
+2026-05-11 11:39:36 | [32mINFO    [0m | handlers.search | User 1691899035 searching: 'horse'
+2026-05-11 11:39:37 | [32mINFO    [0m | handlers.search | User 6429462475 searching: 'Fhc'
+2026-05-11 11:39:40 | [32mINFO    [0m | services.music_search | Search 'horse' -> 5 results
+2026-05-11 11:39:41 | [32mINFO    [0m | aiogram.event | Update id=472496606 is handled. Duration 5141 ms by bot id=8781021259
+2026-05-11 11:39:42 | [32mINFO    [0m | services.music_search | Search 'Fhc' -> 5 results
+2026-05-11 11:39:43 | [32mINFO    [0m | aiogram.event | Update id=472496607 is handled. Duration 6061 ms by bot id=8781021259
+2026-05-11 11:39:46 | [32mINFO    [0m | handlers.download | User 1691899035 requested download: [4] 'Lil Nas X - Old Town Road (Official Video) ft. Billy Ray Cyrus'
+2026-05-11 11:39:47 | [32mINFO    [0m | services.music_downloader | Starting download: https://www.youtube.com/watch?v=r7qovpFAGrQ (id=r7qovpFAGrQ)
+2026-05-11 11:39:55 | [31mERROR   [0m | services.music_downloader | yt-dlp DownloadError: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2026-05-11 11:39:55 | [31mERROR   [0m | handlers.download | Download handler error for user 1691899035: HTTP Client says - ClientConnectionError: Failed to send bytes into the underlying connection Connection<ConnectionKey(host='api.telegram.org', port=443, is_ssl=True, ssl=True, proxy=None, proxy_auth=None, proxy_headers_hash=None)>
+Traceback (most recent call last):
+  File "C:\Users\Dani\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\client_reqrep.py", line 667, in write_bytes
+    await self.body.write(writer)
+  File "C:\Users\Dani\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\multipart.py", line 1010, in write
+    await part.write(writer)
+  File "C:\Users\Dani\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\payload.py", line 487, in write
+    chunk = await self._iter.__anext__()
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dani\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\types\input_file.py", line 103, in read
+    async with aiofiles.open(self.path, "rb") as f:
+  File "C:\Users\Dani\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiofiles\base.py", line 98, in __aenter__
+    self._obj = await self._coro
+                ^^^^^^^^^^^^^^^^
+  File "C:\Users\Dani\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiofiles\threadpool\__init__.py", line 94, in _open
+    f = yield from loop.run_in_executor(executor, cb)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dani\AppData\Local\Programs\Python\Python311\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: expected str, bytes or os.PathLike object, not NoneType
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Dani\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\client\session\aiohttp.py", line 181, in make_request
+    async with session.post(
+  File "C:\Users\Dani\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\client.py", line 1360, in __aenter__
+    self._resp: _RetType = await self._coro
+                           ^^^^^^^^^^^^^^^^
+  File "C:\Users\Dani\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\client.py", line 690, in _request
+    await resp.start(conn)
+  File "C:\Users\Dani\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\client_reqrep.py", line 1059, in start
+    message, payload = await protocol.read()  # type: ignore[union-attr]
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dani\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiohttp\streams.py", line 644, in read
+    await self._waiter
+aiohttp.client_exceptions.ClientConnectionError: Failed to send bytes into the underlying connection Connection<ConnectionKey(host='api.telegram.org', port=443, is_ssl=True, ssl=True, proxy=None, proxy_auth=None, proxy_headers_hash=None)>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Dani\Desktop\music_bot\handlers\download.py", line 79, in handle_track_download
+    await callback.message.answer_audio(
+  File "C:\Users\Dani\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\methods\base.py", line 84, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\Dani\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\client\bot.py", line 488, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dani\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\client\session\base.py", line 254, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dani\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\client\session\aiohttp.py", line 188, in make_request
+    raise TelegramNetworkError(method=method, message=f"{type(e).__name__}: {e}")
+aiogram.exceptions.TelegramNetworkError: HTTP Client says - ClientConnectionError: Failed to send bytes into the underlying connection Connection<ConnectionKey(host='api.telegram.org', port=443, is_ssl=True, ssl=True, proxy=None, proxy_auth=None, proxy_headers_hash=None)>
+2026-05-11 11:39:56 | [32mINFO    [0m | aiogram.event | Update id=472496608 is handled. Duration 10077 ms by bot id=8781021259
+2026-05-11 11:40:15 | [32mINFO    [0m | utils.logger | Logging initialised level=INFO file=logs\bot.log
+2026-05-11 11:40:16 | [32mINFO    [0m | __main__ | Bot started username=@kjfu_bot id=8781021259
+2026-05-11 11:40:16 | [32mINFO    [0m | __main__ | Starting long-polling… (press Ctrl+C to stop)
+2026-05-11 11:40:16 | [32mINFO    [0m | aiogram.dispatcher | Start polling
+2026-05-11 11:40:16 | [32mINFO    [0m | aiogram.dispatcher | Run polling for bot @kjfu_bot id=8781021259 - 'Music_bot'
+2026-05-11 11:40:17 | [32mINFO    [0m | aiogram.event | Update id=472496609 is handled. Duration 468 ms by bot id=8781021259
+2026-05-11 11:41:22 | [32mINFO    [0m | utils.logger | Logging initialised level=INFO file=logs\bot.log
+2026-05-11 11:41:23 | [32mINFO    [0m | __main__ | Bot started username=@kjfu_bot id=8781021259
+2026-05-11 11:41:23 | [32mINFO    [0m | __main__ | Starting long-polling… (press Ctrl+C to stop)
+2026-05-11 11:41:23 | [32mINFO    [0m | aiogram.dispatcher | Start polling
+2026-05-11 11:41:23 | [32mINFO    [0m | aiogram.dispatcher | Run polling for bot @kjfu_bot id=8781021259 - 'Music_bot'
+2026-05-11 11:41:25 | [32mINFO    [0m | handlers.start | User 6429462475 (No_00000) /start
+2026-05-11 11:41:25 | [32mINFO    [0m | aiogram.event | Update id=472496610 is handled. Duration 312 ms by bot id=8781021259
+2026-05-11 11:41:29 | [32mINFO    [0m | handlers.start | User 5085669375 (sigmapro2261) /start
+2026-05-11 11:41:29 | [32mINFO    [0m | aiogram.event | Update id=472496611 is handled. Duration 125 ms by bot id=8781021259
+2026-05-11 11:41:33 | [32mINFO    [0m | handlers.search | User 6429462475 searching: 'Coc'
+2026-05-11 11:41:33 | [32mINFO    [0m | handlers.search | User 1691899035 searching: 'gay'
+2026-05-11 11:41:35 | [32mINFO    [0m | handlers.search | User 5085669375 searching: 'Pig'
+2026-05-11 11:41:36 | [32mINFO    [0m | services.music_search | Search 'Coc' -> 5 results
+2026-05-11 11:41:36 | [32mINFO    [0m | services.music_search | Search 'gay' -> 5 results
+2026-05-11 11:41:36 | [32mINFO    [0m | aiogram.event | Update id=472496612 is handled. Duration 2891 ms by bot id=8781021259
+2026-05-11 11:41:36 | [32mINFO    [0m | aiogram.event | Update id=472496613 is handled. Duration 2905 ms by bot id=8781021259
+2026-05-11 11:41:38 | [32mINFO    [0m | services.music_search | Search 'Pig' -> 5 results
+2026-05-11 11:41:38 | [32mINFO    [0m | aiogram.event | Update id=472496614 is handled. Duration 2671 ms by bot id=8781021259
+2026-05-11 11:41:39 | [32mINFO    [0m | handlers.download | User 1691899035 requested download: [3] 'The Dark Side Of Crime A Young Gay Thef And Gard: Aftermatch | Gay Story'
+2026-05-11 11:41:39 | [32mINFO    [0m | handlers.download | User 6429462475 requested download: [3] '🚨OFFICIAL: BUILDER BASE HAMMER JAM (-50%) & BH11 IN CLASH OF CLANS? '
+2026-05-11 11:41:40 | [32mINFO    [0m | services.music_downloader | Starting download: https://www.youtube.com/watch?v=ii8p6_6l4qI (id=ii8p6_6l4qI)
+2026-05-11 11:41:40 | [32mINFO    [0m | services.music_downloader | Starting download: https://www.youtube.com/watch?v=IPAH9CR1SZg (id=IPAH9CR1SZg)
+2026-05-11 11:41:40 | [32mINFO    [0m | handlers.download | User 5085669375 requested download: [3] 'Pig farming.  Use pig manure as biogas to cook pig feed.  (Episode164).'
+2026-05-11 11:41:43 | [31mERROR   [0m | services.music_downloader | yt-dlp DownloadError: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2026-05-11 11:41:43 | [32mINFO    [0m | services.music_downloader | Starting download: https://www.youtube.com/watch?v=GwQnu868oFo (id=GwQnu868oFo)
+2026-05-11 11:41:43 | [32mINFO    [0m | aiogram.event | Update id=472496615 is handled. Duration 3515 ms by bot id=8781021259
+2026-05-11 11:41:45 | [31mERROR   [0m | services.music_downloader | yt-dlp DownloadError: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2026-05-11 11:41:45 | [32mINFO    [0m | aiogram.event | Update id=472496616 is handled. Duration 5280 ms by bot id=8781021259
+2026-05-11 11:41:56 | [31mERROR   [0m | services.music_downloader | yt-dlp DownloadError: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2026-05-11 11:41:56 | [32mINFO    [0m | aiogram.event | Update id=472496617 is handled. Duration 15765 ms by bot id=8781021259
+2026-05-11 11:44:10 | [32mINFO    [0m | handlers.search | User 5085669375 searching: 'Horse'
+2026-05-11 11:44:15 | [32mINFO    [0m | services.music_search | Search 'Horse' -> 5 results
+2026-05-11 11:44:16 | [32mINFO    [0m | aiogram.event | Update id=472496618 is handled. Duration 5437 ms by bot id=8781021259
+2026-05-11 11:44:20 | [32mINFO    [0m | handlers.download | User 5085669375 requested download: [2] 'The Sad Story of Stolen Horse 🐴💔Old MacDonald Farm & Police Rescue 👮\u200d♂️🏹'
+2026-05-11 11:44:20 | [32mINFO    [0m | services.music_downloader | Starting download: https://www.youtube.com/watch?v=sdBbmi3uK7A (id=sdBbmi3uK7A)
+2026-05-11 11:44:23 | [32mINFO    [0m | handlers.search | User 5085669375 searching: 'Anime'
+2026-05-11 11:44:29 | [32mINFO    [0m | services.music_search | Search 'Anime' -> 5 results
+2026-05-11 11:44:30 | [32mINFO    [0m | aiogram.event | Update id=472496620 is handled. Duration 6531 ms by bot id=8781021259
+2026-05-11 11:44:36 | [32mINFO    [0m | handlers.download | User 5085669375 requested download: [3] 'TOUGEN ANKI: Season 1 Complete (2025) | 6 Audio | MULTI-SUB [#ItsAnime]'
+2026-05-11 11:44:37 | [32mINFO    [0m | services.music_downloader | Starting download: https://www.youtube.com/watch?v=RRkAY_5PMvU (id=RRkAY_5PMvU)
+2026-05-11 11:44:43 | [31mERROR   [0m | services.music_downloader | yt-dlp DownloadError: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2026-05-11 11:44:44 | [32mINFO    [0m | aiogram.event | Update id=472496619 is handled. Duration 23718 ms by bot id=8781021259
+2026-05-11 11:45:31 | [32mINFO    [0m | utils.logger | Logging initialised level=INFO file=logs\bot.log
+2026-05-11 11:45:36 | [32mINFO    [0m | __main__ | Bot started username=@kjfu_bot id=8781021259
+2026-05-11 11:45:36 | [32mINFO    [0m | __main__ | Starting long-polling… (press Ctrl+C to stop)
+2026-05-11 11:45:36 | [32mINFO    [0m | aiogram.dispatcher | Start polling
+2026-05-11 11:45:36 | [32mINFO    [0m | aiogram.dispatcher | Run polling for bot @kjfu_bot id=8781021259 - 'Music_bot'
+2026-05-11 11:45:38 | [32mINFO    [0m | handlers.start | User 6429462475 (No_00000) /start
+2026-05-11 11:45:40 | [32mINFO    [0m | aiogram.event | Update id=472496622 is handled. Duration 1843 ms by bot id=8781021259
+2026-05-11 11:45:43 | [32mINFO    [0m | handlers.search | User 6429462475 searching: 'Lol'
+2026-05-11 11:45:46 | [32mINFO    [0m | services.music_search | Search 'Lol' -> 5 results
+2026-05-11 11:45:46 | [32mINFO    [0m | aiogram.event | Update id=472496623 is handled. Duration 3202 ms by bot id=8781021259
+2026-05-11 11:45:50 | [32mINFO    [0m | handlers.search | User 5085669375 searching: 'Saitama'
+2026-05-11 11:45:51 | [32mINFO    [0m | handlers.download | User 6429462475 requested download: [4] "Caedrel Gives OhnePixel Advice Before Jynxzi's LoL Tournament"
+2026-05-11 11:45:51 | [31mERROR   [0m | services.music_downloader | download_music wrapper error: name 'output_dir' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Dani\Desktop\music_bot\services\music_downloader.py", line 70, in download_music
+    return await loop.run_in_executor(_download_executor, _download_sync, video_url, video_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dani\AppData\Local\Programs\Python\Python311\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dani\Desktop\music_bot\services\music_downloader.py", line 28, in _download_sync
+    "outtmpl": str(output_dir / "%(id)s.%(ext)s"),
+                   ^^^^^^^^^^
+NameError: name 'output_dir' is not defined
+2026-05-11 11:45:51 | [32mINFO    [0m | aiogram.event | Update id=472496625 is handled. Duration 500 ms by bot id=8781021259
+2026-05-11 11:45:51 | [32mINFO    [0m | handlers.search | User 1691899035 searching: 'Gray'
+2026-05-11 11:45:52 | [32mINFO    [0m | services.music_search | Search 'Saitama' -> 5 results
+2026-05-11 11:45:53 | [32mINFO    [0m | aiogram.event | Update id=472496624 is handled. Duration 2734 ms by bot id=8781021259
+2026-05-11 11:45:54 | [32mINFO    [0m | services.music_search | Search 'Gray' -> 5 results
+2026-05-11 11:45:54 | [32mINFO    [0m | aiogram.event | Update id=472496626 is handled. Duration 3094 ms by bot id=8781021259
+2026-05-11 11:45:56 | [32mINFO    [0m | handlers.download | User 5085669375 requested download: [3] 'Saitama vs Thor and Zeus Record of Ragnarok Full Fan Animation'
+2026-05-11 11:45:56 | [31mERROR   [0m | services.music_downloader | download_music wrapper error: name 'output_dir' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Dani\Desktop\music_bot\services\music_downloader.py", line 70, in download_music
+    return await loop.run_in_executor(_download_executor, _download_sync, video_url, video_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dani\AppData\Local\Programs\Python\Python311\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dani\Desktop\music_bot\services\music_downloader.py", line 28, in _download_sync
+    "outtmpl": str(output_dir / "%(id)s.%(ext)s"),
+                   ^^^^^^^^^^
+NameError: name 'output_dir' is not defined
+2026-05-11 11:45:56 | [32mINFO    [0m | aiogram.event | Update id=472496627 is handled. Duration 577 ms by bot id=8781021259
+2026-05-11 11:45:57 | [32mINFO    [0m | handlers.download | User 1691899035 requested download: [1] 'Gray playing table tennis'
+2026-05-11 11:45:57 | [31mERROR   [0m | services.music_downloader | download_music wrapper error: name 'output_dir' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Dani\Desktop\music_bot\services\music_downloader.py", line 70, in download_music
+    return await loop.run_in_executor(_download_executor, _download_sync, video_url, video_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dani\AppData\Local\Programs\Python\Python311\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dani\Desktop\music_bot\services\music_downloader.py", line 28, in _download_sync
+    "outtmpl": str(output_dir / "%(id)s.%(ext)s"),
+                   ^^^^^^^^^^
+NameError: name 'output_dir' is not defined
+2026-05-11 11:45:58 | [32mINFO    [0m | aiogram.event | Update id=472496628 is handled. Duration 905 ms by bot id=8781021259
+2026-05-11 11:48:15 | [32mINFO    [0m | utils.logger | Logging initialised level=INFO file=logs\bot.log
+2026-05-11 11:48:16 | [32mINFO    [0m | __main__ | Bot started username=@kjfu_bot id=8781021259
+2026-05-11 11:48:16 | [32mINFO    [0m | __main__ | Starting long-polling… (press Ctrl+C to stop)
+2026-05-11 11:48:16 | [32mINFO    [0m | aiogram.dispatcher | Start polling
+2026-05-11 11:48:16 | [32mINFO    [0m | aiogram.dispatcher | Run polling for bot @kjfu_bot id=8781021259 - 'Music_bot'
+2026-05-11 11:48:17 | [32mINFO    [0m | handlers.start | User 6429462475 (No_00000) /start
+2026-05-11 11:48:17 | [32mINFO    [0m | handlers.search | User 5085669375 searching: 'Govno'
+2026-05-11 11:48:17 | [32mINFO    [0m | aiogram.event | Update id=472496630 is handled. Duration 608 ms by bot id=8781021259
+2026-05-11 11:48:22 | [32mINFO    [0m | services.music_search | Search 'Govno' -> 5 results
+2026-05-11 11:48:23 | [32mINFO    [0m | aiogram.event | Update id=472496629 is handled. Duration 6405 ms by bot id=8781021259
+2026-05-11 11:48:24 | [32mINFO    [0m | handlers.search | User 1691899035 searching: 'bony'
+2026-05-11 11:48:25 | [32mINFO    [0m | handlers.search | User 6429462475 searching: 'Cat'
+2026-05-11 11:48:26 | [32mINFO    [0m | handlers.download | User 5085669375 requested download: [1] 'Otac i sin seljačine'
+2026-05-11 11:48:27 | [32mINFO    [0m | services.music_downloader | Starting download: https://www.youtube.com/watch?v=ypey4gxuh_o (id=ypey4gxuh_o)
+2026-05-11 11:48:28 | [32mINFO    [0m | services.music_search | Search 'bony' -> 5 results
+2026-05-11 11:48:28 | [32mINFO    [0m | aiogram.event | Update id=472496631 is handled. Duration 3875 ms by bot id=8781021259
+2026-05-11 11:48:29 | [32mINFO    [0m | services.music_search | Search 'Cat' -> 5 results
+2026-05-11 11:48:29 | [32mINFO    [0m | aiogram.event | Update id=472496632 is handled. Duration 4327 ms by bot id=8781021259
+2026-05-11 11:48:31 | [32mINFO    [0m | handlers.download | User 6429462475 requested download: [0] 'बिल्ली का डांस वीडियो | Cat videos | funny cat dance 😻💃| Videos for cats billi dance | #dancingcat'
+2026-05-11 11:48:31 | [32mINFO    [0m | handlers.download | User 1691899035 requested download: [1] 'Boney M. - Rivers of Babylon (Sopot Festival 1979)'
+2026-05-11 11:48:31 | [32mINFO    [0m | services.music_downloader | Starting download: https://www.youtube.com/watch?v=-f1-7wuZo0g (id=-f1-7wuZo0g)
+2026-05-11 11:48:31 | [31mERROR   [0m | services.music_downloader | yt-dlp DownloadError: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2026-05-11 11:48:31 | [32mINFO    [0m | services.music_downloader | Starting download: https://www.youtube.com/watch?v=l3QxT-w3WMo (id=l3QxT-w3WMo)
+2026-05-11 11:48:31 | [32mINFO    [0m | aiogram.event | Update id=472496633 is handled. Duration 5640 ms by bot id=8781021259
+2026-05-11 11:48:39 | [31mERROR   [0m | services.music_downloader | yt-dlp DownloadError: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2026-05-11 11:48:40 | [32mINFO    [0m | aiogram.event | Update id=472496634 is handled. Duration 8891 ms by bot id=8781021259
+2026-05-11 11:48:42 | [31mERROR   [0m | services.music_downloader | yt-dlp DownloadError: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2026-05-11 11:48:42 | [32mINFO    [0m | aiogram.event | Update id=472496635 is handled. Duration 11625 ms by bot id=8781021259
+2026-05-11 14:57:37 | [32mINFO    [0m | utils.logger | Logging initialised level=INFO file=logs\bot.log
+2026-05-11 14:57:38 | [32mINFO    [0m | __main__ | Bot started username=@kjfu_bot id=8781021259
+2026-05-11 14:57:38 | [32mINFO    [0m | __main__ | Starting long-polling… (press Ctrl+C to stop)
+2026-05-11 14:57:38 | [32mINFO    [0m | aiogram.dispatcher | Start polling
+2026-05-11 14:57:38 | [32mINFO    [0m | aiogram.dispatcher | Run polling for bot @kjfu_bot id=8781021259 - 'Music_bot'
+2026-05-11 14:58:01 | [32mINFO    [0m | handlers.start | User 1691899035 (no-username) /start
+2026-05-11 14:58:01 | [32mINFO    [0m | aiogram.event | Update id=472496636 is handled. Duration 327 ms by bot id=8781021259
+2026-05-11 15:04:32 | [32mINFO    [0m | utils.logger | Logging initialised level=INFO file=logs\bot.log
+2026-05-11 15:04:32 | [32mINFO    [0m | __main__ | Bot started username=@kjfu_bot id=8781021259
+2026-05-11 15:04:32 | [32mINFO    [0m | __main__ | Starting long-polling… (press Ctrl+C to stop)
+2026-05-11 15:04:32 | [32mINFO    [0m | aiogram.dispatcher | Start polling
+2026-05-11 15:04:32 | [32mINFO    [0m | aiogram.dispatcher | Run polling for bot @kjfu_bot id=8781021259 - 'Music_bot'
+2026-05-11 15:07:28 | [32mINFO    [0m | handlers.start | User 1691899035 (no-username) /start
+2026-05-11 15:07:29 | [32mINFO    [0m | aiogram.event | Update id=472496637 is handled. Duration 890 ms by bot id=8781021259
+2026-05-11 15:07:49 | [32mINFO    [0m | handlers.search | User 1691899035 searching: 'phonk'
+2026-05-11 15:07:53 | [32mINFO    [0m | services.music_search | Search 'phonk' -> 5 results
+2026-05-11 15:07:53 | [32mINFO    [0m | aiogram.event | Update id=472496638 is handled. Duration 4608 ms by bot id=8781021259
+2026-05-11 15:08:05 | [32mINFO    [0m | handlers.download | User 1691899035 requested download: [1] 'MONTAGEM ALQUIMIA (SLOWED) - h6itam, n7san7os & Mc Menor Do Alvorada'
+2026-05-11 15:08:05 | [32mINFO    [0m | services.music_downloader | Starting download: https://www.youtube.com/watch?v=wFUAYxi9zpo (id=wFUAYxi9zpo)
+2026-05-11 15:08:10 | [31mERROR   [0m | services.music_downloader | yt-dlp DownloadError: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2026-05-11 15:08:10 | [32mINFO    [0m | aiogram.event | Update id=472496639 is handled. Duration 5468 ms by bot id=8781021259
